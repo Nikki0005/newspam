@@ -44,7 +44,6 @@ RAID = [
     "Thinking of you with love on your birthday and wishing you everything that brings you happiness today and always.", 
     "Happy birthday to someone close to me. Hope all the angels are singing to you in heaven.", 
     "Har din se pyaara lagta hai hamein yeh khaas dinJise bitana nahin chaahte hum aap ke binWaise to Dil deta hai sadaa hi Dua aapkoPhir bhi kehte hai mubarak ho aapko yeh janm din", 
-    "A Sizzling celebration a gathering of friendshere is wishing you great happiness& joy that never ends. ”,
     "Happy Birthday Elena ", 
     "Tohfa-e-dil de doon ya de doon Chand TaareJanam din pe tujhe kya doon ye poche mujh se saareZindgi tere naam kar doon bhi to kam hahiDaaman mein bhar doon har pal khushi ko main tumhare…", 
     "हस्ते रहे आप करोड़ों के बिचखिलते रहे आप लाखों के बिचरोशन रहे आप हज़ारों के बिचजैसे रहता है सूरज आसमान के बिच…जन्मदिन की शुभकामनाये", 
